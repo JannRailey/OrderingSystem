@@ -1,0 +1,16 @@
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\bin\Debug\net8.0-windows\ITECC05_Finals.exe
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\bin\Debug\net8.0-windows\ITECC05_Finals.deps.json
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\bin\Debug\net8.0-windows\ITECC05_Finals.runtimeconfig.json
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\bin\Debug\net8.0-windows\ITECC05_Finals.dll
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\bin\Debug\net8.0-windows\ITECC05_Finals.pdb
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ITECC05_Finals.Form1.resources
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ITECC05_Finals.vbproj.GenerateResource.cache
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ITECC05_Finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ITECC05_Finals.AssemblyInfoInputs.cache
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ITECC05_Finals.AssemblyInfo.vb
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ITECC05_Finals.vbproj.CoreCompileInputs.cache
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ITECC05_Finals.dll
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\refint\ITECC05_Finals.dll
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ITECC05_Finals.pdb
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ITECC05_Finals.genruntimeconfig.cache
+C:\Users\reano\source\repos\ITECC05_Finals\ITECC05_Finals\obj\Debug\net8.0-windows\ref\ITECC05_Finals.dll
